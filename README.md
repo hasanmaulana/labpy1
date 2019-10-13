@@ -9,3 +9,4 @@ waktu
 5. Jika telah yakin dengan perubahannya, berikan catatan dengan menggunakan perintah 'git commit -m "catatan"
 6. Membuat Sambungan antara repository lokal dengan server dengan perintah 'git remote add origin'
 7. Mengirim perubahan ke server dengan perintah 'git push -u origin master'
+#latihan 1
