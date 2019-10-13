@@ -11,3 +11,4 @@ waktu
 7. Mengirim perubahan ke server dengan perintah 'git push -u origin master'
 #latihan 1
 #latihan 1
+#latihan 1
