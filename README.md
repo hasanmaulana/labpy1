@@ -10,3 +10,4 @@ waktu
 6. Membuat Sambungan antara repository lokal dengan server dengan perintah 'git remote add origin'
 7. Mengirim perubahan ke server dengan perintah 'git push -u origin master'
 #latihan 1
+#latihan 1
