@@ -21,5 +21,8 @@ waktu
 6. Membuat Sambungan antara repository lokal dengan server dengan perintah 'git remote add origin'
 7. Mengirim perubahan ke server dengan perintah 'git push -u origin master'
 
-
+'/c/Users/asus pc/Pictures/labs pemprogaraman.png'
 #latihan 1
+# labpy1
+# latihan2
+# latihan1
